@@ -12025,7 +12025,7 @@ const Av = () =>
                         target: '_blank',
                         rel: 'noopener noreferrer',
                         children: z.jsx('img', {
-                          src: 'assets/images/linkedin.png', // Replace with the path to your LinkedIn logo
+                          src: 'assets/images/linkedIn.png', // Replace with the path to your LinkedIn logo
                           alt: 'LinkedIn',
                           className: 'w-10 h-10 ml-50 mt-1 mr-2', // Adjust the size as needed
                         }),
