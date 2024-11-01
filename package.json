@@ -1,15 +1,15 @@
 {
-  "name": "philppolo.dev",
+  "name": "philippolo.dev",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "serve -s . -l $PORT"
   },
   "keywords": [
     "developer",
     "profile",
-    "portfolio"
+    "portfolio",
+    "static site"
   ],
   "author": "Philip Polo",
   "license": "ISC",
